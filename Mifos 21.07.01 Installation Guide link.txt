@@ -1,0 +1,7 @@
+Installation Guide
+=====
+
+21.07.01 Release
+===============
+
+Please see https://mifosforge.jira.com/wiki/spaces/docs/pages/2807201793/Mifos+X+21.07.01+Installation+Guide+with+Pentaho+plugin
